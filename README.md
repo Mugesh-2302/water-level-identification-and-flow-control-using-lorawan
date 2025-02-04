@@ -1,4 +1,6 @@
 
+THINKSPEAK LINK FOR PROJECT: https://drive.google.com/file/d/16YfMl6FYs7ArLCtQSGRU6ZbF-UA1Fjaf/view 
+
 This project is centered around creating an advanced water level monitoring system that
 integrates an ESP32 microcontroller, water level sensor, and a buzzer, with the added
 functionality of remote data monitoring through the ThingSpeak platform. The primary goal
@@ -17,3 +19,6 @@ implement, using the power of IoT technology to make water management more effic
 With the ability to remotely monitor water levels in real-time, users can take action from
 anywhere, ensuring that resources are not wasted, and systems operate efficiently. This IoTbased water monitoring solution thus enhances sustainability, offering a modern approach to
 managing and conserving water in various sectors
+
+
+
